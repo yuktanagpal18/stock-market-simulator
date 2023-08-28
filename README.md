@@ -1,1 +1,1 @@
-# Text-Based-Stock-Market-Simulator
+# Stock-Market-Simulator
