@@ -18,13 +18,16 @@ The primary goals of this project are:
 
 - Language: C
 - Platform: Console-based (no graphical interface)
-- Features: Stock price simulation, buy/sell transactions
+- Features: User authentication, Stock price simulation, buy/sell transactions
 - Data Storage: In-memory data storage (no permanent data storage)
 - External Libraries: None (built-in C libraries only)
 
 ## Design
 
 The Stock Market Simulator project is designed around the following components:
+1. **User Authentication:**
+   - Users can create accounts with unique usernames and passwords.
+   - Authentication ensures that users can access the simulator and engage in trading activities.
 
 2. **Market Simulation:**
    - Simulated stock price changes based on random factors.
