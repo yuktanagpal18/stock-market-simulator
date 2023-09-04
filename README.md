@@ -26,7 +26,7 @@ The primary goals of this project are:
 
 The Stock Market Simulator project is designed around the following components:
 1. **User Authentication:**
-   - Users can create accounts with unique usernames and passwords.
+   - Users can access only if the data matches to the hardcoded data.
    - Authentication ensures that users can access the simulator and engage in trading activities.
 
 2. **Market Simulation:**
